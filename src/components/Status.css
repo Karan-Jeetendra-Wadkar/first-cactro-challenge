@@ -1,0 +1,95 @@
+.mainStatus{
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    margin-left: 94px;
+    margin-top: -43px;
+}
+
+.mainStatus > h1{
+    font-size: 30px;
+}
+
+.mainStatus button{
+    font-weight: bold;
+}
+.project{
+    height: 34px;
+    font-size: 16px;
+    padding-right: 54px;
+    text-align: center;
+    border-radius: 7px;
+    background-color: rgb(78, 18, 18);
+    color: white;
+
+}
+.filter{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 12px;
+    height: 34px;
+    font-size: 16px;
+    text-align: center;
+    border-radius: 7px;
+    background-color: white;
+    color: grey;
+    &:hover{
+        background-color: rgb(92, 26, 26);
+        color: white;
+    } 
+
+}
+
+.birthDate{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 12px;
+    height: 34px;
+    font-size: 16px;
+    text-align: center;
+    border-radius: 7px;
+    background-color: white;
+    color: grey;
+    &:hover{
+        background-color: rgb(92, 26, 26);
+        color: white;
+    } 
+
+}
+
+.download{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 12px;
+    height: 34px;
+    font-size: 16px;
+    text-align: center;
+    border-radius: 7px;
+    background-color: white;
+    color: grey;
+    &:hover{
+        background-color: rgb(92, 26, 26);
+        color: white;
+    } 
+
+}
+.download > img{
+   
+    width: 20px;
+    height: 20px;
+}
+
+.birthDate >img{
+  
+    width: 20px;
+    height: 20px;
+}
+
+.filter >img{
+  
+    width: 20px;
+    height: 20px;
+}

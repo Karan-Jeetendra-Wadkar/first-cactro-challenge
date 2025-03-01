@@ -1,0 +1,57 @@
+
+
+.navBar{
+
+    margin-left: 20px;
+    margin-right: 20px;
+      display: flex;
+      justify-content: space-between;
+      background-color: rgb(52, 81, 91);
+      padding: 10px;
+      color: white;
+  }
+  
+  .fontBold{
+      align-items: center;
+      font-weight: bold;
+      font-size:34px ;
+      margin-left: 43px;
+      
+  }
+  
+  .Hcss{
+      color: rgb(130, 114, 114);
+  }
+  .links{
+      position: relative;
+      right: 152px;
+      display: flex;
+      gap: 64px;
+      align-items: center;
+  
+  }
+  .links a{
+      text-decoration: none;
+      color: white;
+  }
+  .dashColor{
+      color:green ;
+  }
+  
+  .rightNav{
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      margin-right: 43px;
+  }
+  .marioImg{
+      width: 43px;
+      height: 43px;
+      border-radius: 100%;
+  
+  }
+  
+  .bellImg{
+      width:20px;
+      height: 20px;
+  }
