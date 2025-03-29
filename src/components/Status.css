@@ -1,21 +1,21 @@
 .mainStatus{
     display: flex;
     align-items: center;
-    gap: 30px;
-    margin-left: 94px;
-    margin-top: -43px;
+    gap: 16px;
+    margin-left: 115px;
+    margin-top: -37px;
 }
 
 .mainStatus > h1{
-    font-size: 30px;
+    font-size: 25px;
 }
 
 .mainStatus button{
     font-weight: bold;
 }
 .project{
-    height: 34px;
-    font-size: 16px;
+    height: 25px;
+    font-size: 14px;
     padding-right: 54px;
     text-align: center;
     border-radius: 7px;
@@ -28,8 +28,8 @@
     justify-content: space-between;
     align-items: center;
     gap: 12px;
-    height: 34px;
-    font-size: 16px;
+    height: 25px;
+    font-size: 14px;
     text-align: center;
     border-radius: 7px;
     background-color: white;
@@ -46,8 +46,8 @@
     justify-content: space-between;
     align-items: center;
     gap: 12px;
-    height: 34px;
-    font-size: 16px;
+    height: 25px;
+    font-size: 14px;
     text-align: center;
     border-radius: 7px;
     background-color: white;
@@ -64,8 +64,8 @@
     justify-content: space-between;
     align-items: center;
     gap: 12px;
-    height: 34px;
-    font-size: 16px;
+    height: 25px;
+    font-size: 14px;
     text-align: center;
     border-radius: 7px;
     background-color: white;

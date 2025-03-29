@@ -2,10 +2,11 @@ import "./Navbar.css"
 
 const Navbar = () => {
   return (
-    <nav className="navBar">
+<div className="navcss">
+<nav className="navBar">
     <div className="fontBold"><span className="Hcss">H</span>OURS</div>
     <div className="links">
-      <a href="#" >Dashboard</a>
+      <a id="dash" href="#" >Dashboard</a>
       <a href="#">Projects</a>
       <a href="#">Team</a>
       <a href="#">Clients</a>
@@ -19,6 +20,7 @@ const Navbar = () => {
       <img className="bellImg" src="https://www.svgrepo.com/show/488771/arrow-down-simple.svg" alt="icon" />
     </div>
   </nav>
+</div>
   )
 }
 

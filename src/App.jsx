@@ -1,4 +1,3 @@
-import react, { useState } from 'react';
 import Mid from './components/Mid';
 
 import './App.css'

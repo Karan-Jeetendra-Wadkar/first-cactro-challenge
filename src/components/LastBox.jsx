@@ -7,7 +7,7 @@ const LastBox = () => {
       <div className="lastBoxes">
         <div className="title">
           <div className="titleFlex">
-            <h2>Insurance App</h2>
+            <h3>Insurance App</h3>
             <p>Verti</p>
           </div>
           <img
@@ -38,7 +38,7 @@ const LastBox = () => {
       <div className="lastBoxes">
         <div className="title">
           <div id="bankiaflex" className="titleFlex">
-            <h2>Neo</h2>
+            <h3>Neo</h3>
             <p>Bankia</p>
           </div>
           <img
@@ -68,7 +68,7 @@ const LastBox = () => {
       <div className="lastBoxes">
         <div className="title">
           <div className="titleFlex">
-            <h2>VR Website</h2>
+            <h3>VR Website</h3>
             <p>Barca</p>
           </div>
           <img
@@ -98,7 +98,7 @@ const LastBox = () => {
       <div className="lastBoxes">
         <div className="title">
           <div className="titleFlex">
-          <h2>VR Website</h2>
+          <h3>VR Website</h3>
           <p>Barca</p>
           </div>
           <img

@@ -3,15 +3,15 @@
     padding: 34px;
     gap: 20px;
     margin-top: -16px;
-    margin-left: 61px;
+    margin-left: 80px;
     margin-right: 61px;
 
 }
 .smallBoxes h2 {
-font-size: 43px;
+font-size: 34px;
 }
 .smallBoxes > p{
-    font-size: 20px;
+    font-size: 16px;
     margin-bottom: 42px;
     font-weight: bold;
 }
@@ -21,8 +21,8 @@ font-size: 43px;
     flex-direction: column;
     align-items: center;
     justify-content: center;
-height: 160px;
-width: 250px;
+height: 115px;
+width: 173px;
     box-shadow: 1px 1px 20px grey;
 
 
@@ -63,16 +63,16 @@ width: 250px;
 }
 .box1{
     box-shadow: 1px 1px 20px grey;
-    height:350px;
-    width: 800px;
+    height:280px;
+    width: 553px;
 
 }
 
 
 .box2{
     box-shadow: 1px 1px 20px grey;
-    height:350px;
-    width: 592px;
+    height:280px;
+    width: 454px;
 
 }
 
@@ -80,7 +80,7 @@ width: 250px;
     display: flex;
     flex-direction: column;
     width: 100%;
-    height: 500px;
+    height: 382px;
     padding: 16px;
     gap: 7px;
     margin-left: 25px;
@@ -93,10 +93,9 @@ width: 250px;
 
 .Icon{
     display: flex;
-    height: 59px;
+    height: 30px;
     align-items: center;
     padding-left:34px ;
-    font-size: 22px;
     &:hover{background-color:#ededed};
     cursor: pointer;
 }
@@ -104,16 +103,17 @@ width: 250px;
     display: flex;
     flex-direction: column;
     font-weight: bold;
+    font-size: 16px;
     margin-left: 10px;
 }
 
 .Name >p{
-    font-size: 16px;
+    font-size: 12px;
     color: grey;
 }
 
 .profilePic{
-    width: 43px;
+    width: 34px;
     border-radius: 100%;
     margin:0 23px 0 0;
     
@@ -123,7 +123,7 @@ width: 250px;
 .fontName{
     display: flex;
     justify-content: flex-start;
-    font-size: 20px;
+    font-size: 16px;
 }
 
 .sliderWidth{
